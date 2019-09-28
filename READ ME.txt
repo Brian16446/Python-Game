@@ -1,0 +1,3 @@
+The objective of the game is to remove shoot all the blocks without getting hit. 
+
+Run the main function to start the game. 
